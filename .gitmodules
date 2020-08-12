@@ -30,7 +30,7 @@
 	branch = cares-1_12_0
 [submodule "third_party/bloaty"]
 	path = third_party/bloaty
-	url = https://hub.fastgit.org/google/bloaty.git
+	url = https://hub.fastgit.org/boh-inspur/bloaty.git
 [submodule "third_party/abseil-cpp"]
 	path = third_party/abseil-cpp
 	url = https://hub.fastgit.org/abseil/abseil-cpp
